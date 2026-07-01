@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0377/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說孝子經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T16/T16n0687.xml
+    old_id: T16n0687
+hash: sha256:a37bbedc99db44a24025661baf52024714480279a608242df40ee31a0fd6860a
